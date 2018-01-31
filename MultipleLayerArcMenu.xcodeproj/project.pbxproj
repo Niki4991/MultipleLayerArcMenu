@@ -13,6 +13,7 @@
 		FE0E825C2021C99F00DBCD05 /* MultipleLayerArcMenu.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = FE0E825A2021C99F00DBCD05 /* MultipleLayerArcMenu.xcdatamodeld */; };
 		FE0E825E2021C99F00DBCD05 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FE0E825D2021C99F00DBCD05 /* Assets.xcassets */; };
 		FE0E82612021C99F00DBCD05 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FE0E825F2021C99F00DBCD05 /* LaunchScreen.storyboard */; };
+		FE0E82692021C9C100DBCD05 /* MultipleLayerArcMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE0E82682021C9C100DBCD05 /* MultipleLayerArcMenu.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		FE0E825D2021C99F00DBCD05 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FE0E82602021C99F00DBCD05 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FE0E82622021C99F00DBCD05 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FE0E82682021C9C100DBCD05 /* MultipleLayerArcMenu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultipleLayerArcMenu.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				FE0E825F2021C99F00DBCD05 /* LaunchScreen.storyboard */,
 				FE0E82622021C99F00DBCD05 /* Info.plist */,
 				FE0E825A2021C99F00DBCD05 /* MultipleLayerArcMenu.xcdatamodeld */,
+				FE0E82682021C9C100DBCD05 /* MultipleLayerArcMenu.swift */,
 			);
 			path = MultipleLayerArcMenu;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FE0E825C2021C99F00DBCD05 /* MultipleLayerArcMenu.xcdatamodeld in Sources */,
+				FE0E82692021C9C100DBCD05 /* MultipleLayerArcMenu.swift in Sources */,
 				FE0E82562021C99F00DBCD05 /* ViewController.swift in Sources */,
 				FE0E82542021C99F00DBCD05 /* AppDelegate.swift in Sources */,
 			);
